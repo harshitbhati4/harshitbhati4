@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Bhati</h1>
-<h3 align="center">A Cyber-Security Enthusiast</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=700&size=21&pause=1000&color=F71010&width=310&lines=Cyber+Security+Researcher;Linux+%7C+Networking+%7C+Scripting)](https://git.io/typing-svg" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitbhati4&label=Profile%20views&color=0e75b6&style=flat" alt="harshitbhati4" /> </p>
 
 # 💫 About Me:
